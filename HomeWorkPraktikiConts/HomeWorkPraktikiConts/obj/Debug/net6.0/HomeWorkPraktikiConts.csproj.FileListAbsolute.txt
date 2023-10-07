@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Homeworkpraktiki\HomeWorkPraktikiConst\HomeWorkPraktikiConts\HomeWorkPraktikiConts\bin\Debug\net6.0\HomeWorkPraktikiConts.exe
+C:\Users\User\Desktop\Homeworkpraktiki\HomeWorkPraktikiConst\HomeWorkPraktikiConts\HomeWorkPraktikiConts\bin\Debug\net6.0\HomeWorkPraktikiConts.deps.json
+C:\Users\User\Desktop\Homeworkpraktiki\HomeWorkPraktikiConst\HomeWorkPraktikiConts\HomeWorkPraktikiConts\bin\Debug\net6.0\HomeWorkPraktikiConts.runtimeconfig.json
+C:\Users\User\Desktop\Homeworkpraktiki\HomeWorkPraktikiConst\HomeWorkPraktikiConts\HomeWorkPraktikiConts\bin\Debug\net6.0\HomeWorkPraktikiConts.dll
+C:\Users\User\Desktop\Homeworkpraktiki\HomeWorkPraktikiConst\HomeWorkPraktikiConts\HomeWorkPraktikiConts\bin\Debug\net6.0\HomeWorkPraktikiConts.pdb
+C:\Users\User\Desktop\Homeworkpraktiki\HomeWorkPraktikiConst\HomeWorkPraktikiConts\HomeWorkPraktikiConts\obj\Debug\net6.0\HomeWorkPraktikiConts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Homeworkpraktiki\HomeWorkPraktikiConst\HomeWorkPraktikiConts\HomeWorkPraktikiConts\obj\Debug\net6.0\HomeWorkPraktikiConts.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Homeworkpraktiki\HomeWorkPraktikiConst\HomeWorkPraktikiConts\HomeWorkPraktikiConts\obj\Debug\net6.0\HomeWorkPraktikiConts.AssemblyInfo.cs
+C:\Users\User\Desktop\Homeworkpraktiki\HomeWorkPraktikiConst\HomeWorkPraktikiConts\HomeWorkPraktikiConts\obj\Debug\net6.0\HomeWorkPraktikiConts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homeworkpraktiki\HomeWorkPraktikiConst\HomeWorkPraktikiConts\HomeWorkPraktikiConts\obj\Debug\net6.0\HomeWorkPraktikiConts.dll
+C:\Users\User\Desktop\Homeworkpraktiki\HomeWorkPraktikiConst\HomeWorkPraktikiConts\HomeWorkPraktikiConts\obj\Debug\net6.0\refint\HomeWorkPraktikiConts.dll
+C:\Users\User\Desktop\Homeworkpraktiki\HomeWorkPraktikiConst\HomeWorkPraktikiConts\HomeWorkPraktikiConts\obj\Debug\net6.0\HomeWorkPraktikiConts.pdb
+C:\Users\User\Desktop\Homeworkpraktiki\HomeWorkPraktikiConst\HomeWorkPraktikiConts\HomeWorkPraktikiConts\obj\Debug\net6.0\HomeWorkPraktikiConts.genruntimeconfig.cache
+C:\Users\User\Desktop\Homeworkpraktiki\HomeWorkPraktikiConst\HomeWorkPraktikiConts\HomeWorkPraktikiConts\obj\Debug\net6.0\ref\HomeWorkPraktikiConts.dll
